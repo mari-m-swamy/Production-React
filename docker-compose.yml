@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  react-app:
+    image: 082319703342.dkr.ecr.us-east-1.amazonaws.com/dev:latest
+    container_name: react-container
+    ports:
+      - "80:80"
+    restart: always
