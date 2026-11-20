@@ -105,4 +105,4 @@ Before running this project install
 - Jenkins
 - AWS CLI
 - Ubuntu Server
-- AWS ECR
+- AWS ECR 
