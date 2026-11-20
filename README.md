@@ -20,14 +20,6 @@ The application is containerized using Docker, automated using Jenkins CI/CD, de
 
 ---
 
-**## Original Repository**
-
-Application Source
-
-https://github.com/sriram-R-krishnan/devops-build
-
----
-
 **# Tech Stack**
 
 - React
