@@ -48,3 +48,4 @@ fi
 
 echo "[4/4] Build complete → $ECR_URI:$GIT_SHA"
 echo "   Run 'scripts/deploy.sh' to push & deploy."
+ 
